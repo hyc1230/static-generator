@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node index.cjs"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "fs-extra": "^11.2.0"
+  }
+}

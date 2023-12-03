@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
+        "dir": "fontawesome"
+    },
+    {
+        "url": "https://registry.npmjs.org/firacode/-/firacode-6.2.0.tgz",
+        "dir": "firacode"
+    },
+    {
+        "url": "https://registry.npmjs.org/marked/-/marked-11.0.0.tgz",
+        "dir": "marked"
+    },
+    {
+        "url": "https://registry.npmjs.org/vue/-/vue-3.3.9.tgz",
+        "dir": "vue"
+    },
+    {
+        "url": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
+        "dir": "react"
+    }
+]
