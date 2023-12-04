@@ -16,13 +16,8 @@
     },
     {
         "type": "zip",
-        "url": "https://registry.npmjs.org/vue/-/vue-3.3.9.tgz",
-        "dir": "vue"
-    },
-    {
-        "type": "zip",
-        "url": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
-        "dir": "react"
+        "url": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.7.7/static-23.11.zip",
+        "dir": "typecho-butterfly"
     },
     {
         "type": "file",
