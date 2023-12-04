@@ -1,22 +1,37 @@
 [
     {
+        "type": "zip",
         "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
         "dir": "fontawesome"
     },
     {
+        "type": "zip",
         "url": "https://registry.npmjs.org/firacode/-/firacode-6.2.0.tgz",
         "dir": "firacode"
     },
     {
+        "type": "zip",
         "url": "https://registry.npmjs.org/marked/-/marked-11.0.0.tgz",
         "dir": "marked"
     },
     {
+        "type": "zip",
         "url": "https://registry.npmjs.org/vue/-/vue-3.3.9.tgz",
         "dir": "vue"
     },
     {
+        "type": "zip",
         "url": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
         "dir": "react"
+    },
+    {
+        "type": "file",
+        "url": "https://blog.hycqwq.top/favicon.png",
+        "dir": "hyc"
+    },
+    {
+        "type": "file",
+        "url": "https://blog.hycqwq.top/favicon.ico",
+        "dir": "hyc"
     }
 ]
