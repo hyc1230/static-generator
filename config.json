@@ -19,21 +19,13 @@
     },
     {
         "type": "zip",
-        "url": "https://registry.npmjs.org/vue/-/vue-3.3.9.tgz",
-        "dir": "vue",
-        "zipdir": "package"
-    },
-    {
-        "type": "zip",
-        "url": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
-        "dir": "react",
-        "zipdir": "package"
+        "url": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.7.7/static-23.11.zip",
+        "dir": "typecho-butterfly"
     },
     {
         "type": "file",
         "url": "https://blog.hycqwq.top/favicon.png",
-        "dir": "hyc",
-        "filename": "avatar.png"
+        "dir": "hyc"
     },
     {
         "type": "file",
