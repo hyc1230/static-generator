@@ -2,17 +2,20 @@
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
-        "dir": "fontawesome"
+        "dir": "fontawesome",
+        "zipdir": "package"
     },
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/firacode/-/firacode-6.2.0.tgz",
-        "dir": "firacode"
+        "dir": "firacode",
+        "zipdir": "package"
     },
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/marked/-/marked-11.0.0.tgz",
-        "dir": "marked"
+        "dir": "marked",
+        "zipdir": "package"
     },
     {
         "type": "zip",
