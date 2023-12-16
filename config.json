@@ -1,5 +1,15 @@
 [
     {
+        "type": "file",
+        "url": "https://blog.hycqwq.top/favicon.png",
+        "dir": "hyc"
+    },
+    {
+        "type": "file",
+        "url": "https://blog.hycqwq.top/favicon.ico",
+        "dir": "hyc"
+    },
+    {
         "type": "zip",
         "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
         "dir": "fontawesome@4.7.0",
@@ -18,25 +28,15 @@
         "zipdir": "package"
     },
     {
-        "type": "file",
-        "url": "https://blog.hycqwq.top/favicon.png",
-        "dir": "hyc"
-    },
-    {
-        "type": "file",
-        "url": "https://blog.hycqwq.top/favicon.ico",
-        "dir": "hyc"
-    },
-    {
         "type": "zip",
         "url": "https://registry.npmjs.org/aplayer/-/aplayer-1.10.1.tgz",
-        "dir": "HomeCard/aplayer@1.10.1",
+        "dir": "aplayer@1.10.1",
         "zipdir": "package"
     },
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/meting/-/meting-2.0.1.tgz",
-        "dir": "HomeCard/meting@2.0.1",
+        "dir": "meting@2.0.1",
         "zipdir": "package"
     },
     {
