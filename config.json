@@ -2,25 +2,20 @@
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
-        "dir": "fontawesome",
+        "dir": "fontawesome@4.7.0",
         "zipdir": "package"
     },
     {
         "type": "zip",
         "url": "https://registry.npmjs.org/firacode/-/firacode-6.2.0.tgz",
-        "dir": "firacode",
+        "dir": "firacode@6.2.0",
         "zipdir": "package"
     },
     {
         "type": "zip",
-        "url": "https://registry.npmjs.org/marked/-/marked-11.0.0.tgz",
-        "dir": "marked",
+        "url": "https://registry.npmjs.org/mdui/-/mdui-1.0.2.tgz",
+        "dir": "mdui@1.0.2",
         "zipdir": "package"
-    },
-    {
-        "type": "zip",
-        "url": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.7.7/static-23.11.zip",
-        "dir": "typecho-butterfly"
     },
     {
         "type": "file",
@@ -31,6 +26,18 @@
         "type": "file",
         "url": "https://blog.hycqwq.top/favicon.ico",
         "dir": "hyc"
+    },
+    {
+        "type": "zip",
+        "url": "https://registry.npmjs.org/aplayer/-/aplayer-1.10.1.tgz",
+        "dir": "HomeCard/aplayer@1.10.1",
+        "zipdir": "package"
+    },
+    {
+        "type": "zip",
+        "url": "https://registry.npmjs.org/meting/-/meting-2.0.1.tgz",
+        "dir": "HomeCard/meting@2.0.1",
+        "zipdir": "package"
     },
     {
         "type": "zip",
@@ -103,5 +110,10 @@
         "url": "https://github.com/dkern/jquery.lazy/archive/refs/heads/master.zip",
         "dir": "bubble-static/gh/dkern/jquery.lazy",
         "zipdir": "jquery.lazy-master"
+    },
+    {
+        "type": "zip",
+        "url": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.7.7/static-23.11.zip",
+        "dir": "typecho-butterfly"
     }
 ]
