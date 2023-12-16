@@ -11,7 +11,7 @@
     },
     {
         "type": "zip",
-        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/@fortawesome/fontawesome-free-6.5.1.tgz",
+        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-6.5.1.tgz",
         "dir": "fontawesome@6.5.1",
         "zipdir": "package"
     },
