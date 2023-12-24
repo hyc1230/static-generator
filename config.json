@@ -29,6 +29,12 @@
     },
     {
         "type": "zip",
+        "url": "https://registry.npmjs.org/marked/-/marked-11.1.0.tgz",
+        "dir": "marked@11.1.0",
+        "zipdir": "package"
+    },
+    {
+        "type": "zip",
         "url": "https://registry.npmjs.org/aplayer/-/aplayer-1.10.1.tgz",
         "dir": "aplayer@1.10.1",
         "zipdir": "package"
