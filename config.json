@@ -1,13 +1,15 @@
 [
     {
         "type": "file",
-        "url": "https://blog.hycqwq.top/favicon.png",
-        "dir": "hyc"
+        "url": "https://raw.githubusercontent.com/hyc1230/hyc1230/refs/heads/main/Yasunase-fix.jpg",
+        "dir": "hyc",
+        "filename": "avatar.jpg"
     },
     {
         "type": "file",
-        "url": "https://blog.hycqwq.top/favicon.ico",
-        "dir": "hyc"
+        "url": "https://raw.githubusercontent.com/hyc1230/hyc1230/refs/heads/main/Yasunase-erase-favicon.ico",
+        "dir": "hyc",
+        "filename": "favicon.ico"
     },
     {
         "type": "file",
